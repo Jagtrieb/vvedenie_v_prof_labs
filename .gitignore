@@ -740,6 +740,6 @@ output.txt
 
 main
 main_compiled_from_txt
-main_compiled_with_no_extension
+main_compiled_with_no_extensions
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,c,csharp,fsharp,go,python,jspm,macos,windows,linux
