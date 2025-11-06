@@ -48,7 +48,7 @@ int main(){
     wchar_t charredCyrrilicSurname[] = {L'Б', L'о', L'я', L'р', L'с', L'к', L'и', L'х', L'\0'}; //3.2
     
     char latinSurname[] = "Boyarskikh"; //3.3
-    char charredLatinSurname[] = {'B', 'o', 'y', 'a', 'r', 's', 'k', 'i', 'k', 'h'}; //3.4
+    char charredLatinSurname[] = {'B', 'o', 'y', 'a', 'r', 's', 'k', 'i', 'k', 'h', '\0'}; //3.4
 
     //3.5 Вывод длин строк
     fprintf(fileptr, "3.5 Длины массивов:\n");
