@@ -737,9 +737,11 @@ $RECYCLE.BIN/
 *.lnk
 
 output.txt
-
+playground/*
 main
 main_compiled_from_txt
 main_compiled_with_no_extensions
+
+*.dockx
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,c,csharp,fsharp,go,python,jspm,macos,windows,linux
